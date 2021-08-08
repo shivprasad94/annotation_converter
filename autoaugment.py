@@ -1,5 +1,4 @@
-# Created by Térence Gras 05/01/2021
-#
+
 # Objective: Augments your initial dataset using a series of effects: 
 # noise, gaussian blur, flip horizontal & vertical, occlusion
 #
@@ -9,7 +8,6 @@
 # at same location as this script following this format:
 # | Images
 # | autoaugment.py
-# For more information on LabelImg, go here: https://github.com/tzutalin/labelImg
 #
 # How to use:
 # Execute main srcipt using python autoaugment.py
